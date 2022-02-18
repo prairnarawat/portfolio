@@ -1,0 +1,15 @@
+@media (max-width: 1023px){
+
+    .intro{
+        flex-direction: column;
+    }
+
+    .about{
+        flex-direction: column-reverse;
+    }
+
+    .firstSection, .secondSection, .fourthSection{
+        height: auto;
+    }
+
+}
